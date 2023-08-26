@@ -9,6 +9,7 @@ assignees: ''
 ---
 
 ## Talk Proposal Submission
+*Important: Rename your proposal title to the following format "TALK TITLE - MONTH TO BE CONSIDERED"*
 
 **Talk Title:** [Your Talk Title]
 
