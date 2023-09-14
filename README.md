@@ -16,8 +16,10 @@ Are you a student with a passion for tech and a story to share? This is your cha
 **Review Process**: Our team will review all submitted proposals and select one outstanding proposal each month for the "Community Spotlight" segment of our monthly community call.
 
 ### 📆 Important Dates
- - [SEPTEMBER] Submission Deadline: 9th September
- - [SEPTEMBER] Announcement of Selected Speaker: 14th of September
+ - ~~[SEPTEMBER] Submission Deadline: 9th September~~
+ - ~~[SEPTEMBER] Announcement of Selected Speaker: 14th of September~~
+ - [OCTOBER] Submission Deadline: 9th October 
+ - [OCTOBER] Announcement of Selected Speaker: 14th of October 
  
 ### 🌍 Stay Connected
 Stay connected with GitHub Community Sri Lanka for updates on events, community calls, and more:
