@@ -18,8 +18,12 @@ Are you a student with a passion for tech and a story to share? This is your cha
 ### 📆 Important Dates
  - ~~[SEPTEMBER] Submission Deadline: 9th September~~
  - ~~[SEPTEMBER] Announcement of Selected Speaker: 14th of September~~
- - [OCTOBER] Submission Deadline: 9th October 
- - [OCTOBER] Announcement of Selected Speaker: 14th of October 
+ - ~~[OCTOBER] Submission Deadline: 9th October~~
+ - ~~[OCTOBER] Announcement of Selected Speaker: 14th of October~~
+ - [NOVEMBER] Submission Deadline: 20th of November 
+ - [NOVEMBER] Announcement of Selected Speaker: 22nd of November
+
+ 
  
 ### 🌍 Stay Connected
 Stay connected with GitHub Community Sri Lanka for updates on events, community calls, and more:
