@@ -34,3 +34,26 @@ Join our [Discord Server](https://discord.gg/q9FjNc88M2) for discussions and net
 Let's celebrate the diversity of tech voices and learn from each other's experiences. We look forward to hearing your amazing tech stories! 🚀🎙️
 
 _Note: By submitting a talk proposal, you agree to allow GitHub Community Sri Lanka to use your name, bio, affiliation, talk description and other selected information for promotional purposes related to the community call. If your proposal is selected, you'll be contacted by our team for further details_.
+
+
+### 👑 Hall of Fame
+Our past community spotlight speakers.
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="top" width=150px">
+                <img src="./assets/img/zainab.png" width="100px;" alt="Zainab Fahim"/>
+                <br />
+                <strong>Zainab Fahim</strong>
+                <p>August - 2023</p>
+            </td>
+            <td align="center" valign="top" width="150px">
+                <img src="./assets/img/nisal.jpeg" width="100px;" alt="Kent C. Dodds"/>
+                <br />
+                <strong>Nisal Palliyaguru</strong>
+                <p>September - 2023</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
