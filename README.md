@@ -49,11 +49,17 @@ Our past community spotlight speakers.
                 <p>August - 2023</p>
             </td>
             <td align="center" valign="top" width="150px">
-                <img src="./assets/img/nisal.jpeg" width="100px;" alt="Kent C. Dodds"/>
+                <img src="./assets/img/nisal.jpeg" width="100px;" alt="Nisal Renuja"/>
                 <br />
                 <strong>Nisal Palliyaguru</strong>
                 <p>September - 2023</p>
             </td>
+            <td align="center" valign="top" width="150px">
+                <img src="./assets/img/shihan.jpeg" width="100px;" alt="Shihan Embuldeniya"/>
+                <br />
+                <strong>Shihan Embuldeniya</strong>
+                <p>November - 2023</p>
+            </td> 
         </tr>
     </tbody>
 </table>
