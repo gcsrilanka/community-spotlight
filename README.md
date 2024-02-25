@@ -22,7 +22,7 @@ Are you a student with a passion for tech and a story to share? This is your cha
  - ~~[OCTOBER] Announcement of Selected Speaker: 14th of October~~
  - ~~[NOVEMBER] Submission Deadline: 20th of November~~ 
  - ~~[NOVEMBER] Announcement of Selected Speaker: 22nd of November~~
- - **[DECEMBER] Await an update on the December Community Call.**
+ - ~~**[DECEMBER] Await an update on the December Community Call.**~~
 
  
  
@@ -60,7 +60,13 @@ Our past community spotlight speakers.
                 <strong>Shihan Embuldeniya</strong>
                 <p>November - 2023</p>
             </td> 
-        </tr>
+                <td align="center" valign="top" width="150px">
+                <img src="https://avatars.githubusercontent.com/u/72783701?v=4" width="100px;" alt="Shakya Peiris "/>
+                <br />
+                <strong>Shakya Peiris</strong>
+                <p>December - 2023</p>
+            </td> 
+          </tr>
     </tbody>
 </table>
 
